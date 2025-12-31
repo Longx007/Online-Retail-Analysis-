@@ -3,13 +3,15 @@ This online retail store has appointed you as a consultant to analyze business d
 
 **Insight and recomandation**
 
-In the meeting with the CEO and CMO, you'll present your findings and recommendations. You might highlight:
+This project delivers executive-level insights for CEO and CMO stakeholders by diagnosing the true drivers of revenue growth, stability, and customer behavior in an online retail business. Rather than focusing on descriptive metrics alone, the analysis identifies why performance changes and where actionable levers exist.
 
-1. **Top Performing Categories**: Identify which product categories are driving the most revenue and suggest focusing on expanding these offerings.
-2. **Geographic Insights**: Showcase regions where revenue is particularly strong. This could lead to strategic expansion efforts in these areas.
-3. **Customer Segmentation**: Present different customer segments and their contribution to revenue. This could guide marketing efforts to target specific demographics more effectively.
-4. **Marketing Strategies**: Suggest strategies to further enhance marketing effectiveness based on metrics like customer acquisition cost and engagement rates.
-5. **Future Growth Opportunities**: Based on the data, offer insights into potential growth areas and new markets to explore.
+Key objectives of the project include:
+
+1. **Diagnosing revenue growth drivers across markets**, distinguishing between scale-driven and value-driven countries to support differentiated growth strategies.
+2. **Identifying sources of revenue volatility**, assessing whether fluctuations are caused by demand patterns or post-purchase issues such as returns and cancellations.
+3. **Evaluating customer dependency and revenue concentration risk**, ensuring business performance is not overly reliant on a small group of customers.
+4. **Understanding customer behavior through segmentation and lifecycle analysis**, highlighting which customer segments drive stable revenue and where churn risk is highest.
+5. **Highlighting sustainable growth opportunities**, focusing on retention, repeat purchase behavior, and revenue quality rather than short-term volume expansion.
 
 An interactive PowerBI dashboard can be downloaded [here](./OnlineRetailDashboard.pbix)
 
